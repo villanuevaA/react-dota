@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+html { font-family: 'Roboto' !important;
+ }
+body{
+    padding: 0;
+    margin: 0;
+}
+.MenuTitle{
+    margin:10px;
+}
+.Links{
+    text-decoration: none;
+    font-family: 'Roboto';
+}
+.content{
+    margin:5px auto;
+    width: 80%;
+}
+
+nav{
+    padding-top: 20px;
+}
